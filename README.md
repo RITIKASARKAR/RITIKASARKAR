@@ -1,12 +1,59 @@
-- 👋 Hi, I’m @RITIKASARKAR
-- 👀 I’m interested in ... coding 
-- 🌱 I’m currently learning ... web and dsa
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... my number,mail everywhere
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I am 1st year btech cse student new to everything
+# Hi 👋, I'm Ritika Sarkar
 
-<!---
-RITIKASARKAR/RITIKASARKAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 2nd Year Student | 💻 Full Stack Developer | 🤖 GenAI Learner
+
+---
+
+## 🚀 About Me
+
+* 🌱 Currently learning **Generative AI, LLMs, and AI Agents**
+* 💻 Skilled in **Full Stack Development (MERN)**
+* 🧠 Exploring **Vector Databases, RAG, and LangChain**
+* 🎯 Goal: Build real-world AI-powered applications
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+* JavaScript
+* Python
+* C++
+
+### 🌐 Web Development
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+
+### 🤖 AI / GenAI
+
+* LangChain
+* OpenAI / Gemini APIs
+* Vector Databases (Pinecone, FAISS)
+* RAG Systems
+
+---
+
+##
+
+---
+
+## 📈 Currently Working On
+
+* AI Agents
+* Advanced RAG Pipelines
+* Scaling Full Stack + AI integration
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: (add your link)
+* Email: (your email)
+
+---
+
+⭐ “Consistency beats talent when talent doesn’t stay consistent.”
