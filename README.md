@@ -51,8 +51,8 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: (add your link)
-* Email: (your email)
+* LinkedIn:www.linkedin.com/in/ritika-sarkar-9a68b632a
+* Email: sarkar.ritika.2006.me@gmail.com
 
 ---
 
