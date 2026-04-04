@@ -30,7 +30,7 @@
 
 ### 🤖 AI / GenAI
 
-* LangChain
+* LangChain,langGraph
 * OpenAI / Gemini APIs
 * Vector Databases (Pinecone, FAISS)
 * RAG Systems
