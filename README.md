@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ritika Sarkar
 
-🎓 2nd Year Student | 💻 Full Stack Developer | 🤖 GenAI Learner
+🎓 3rd Year Student | 💻 Full Stack Developer | 🤖 GenAI Learner
 
 ---
 
