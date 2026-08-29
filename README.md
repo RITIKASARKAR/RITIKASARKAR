@@ -55,5 +55,3 @@
 * Email: sarkar.ritika.2006.me@gmail.com
 
 ---
-
-⭐ “Consistency beats talent when talent doesn’t stay consistent.”
